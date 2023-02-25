@@ -2,7 +2,7 @@
 
 > A simple powerful Discord music bot - “ Where words fail, music speaks.”
 
-<a href="https://discord.com/oauth2/authorize?client_id=999162626036740138&permissions=53857345&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=PS8 Music%236579&plastic&color=5865F2&logo=discord"></a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=1078917777789821049&permissions=1084516465216&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=PS8 Music%236579&plastic&color=5865F2&logo=discord"></a>
 
 ## Features
 - Interaction support.
